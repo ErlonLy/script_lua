@@ -1,1 +1,2 @@
-# script_lua_logitech
+# script_lua
+Scripts voltados para mouses da marca Logitech
